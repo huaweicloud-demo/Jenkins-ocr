@@ -1,2 +1,3 @@
 # Jenkins-ocr
-记录jenkins信息
+记录ocr的jenkins信息
+ocr - IAM
